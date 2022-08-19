@@ -1,0 +1,22 @@
+{
+  "name": "less-code",
+  "version": "1.0.0",
+  "description": "This project will allow you to create less css and help you to make simple layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alkaly02/less-css.git"
+  },
+  "keywords": [
+    "[css]"
+  ],
+  "author": "Moussa Alkaly BADJI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alkaly02/less-css/issues"
+  },
+  "homepage": "https://github.com/Alkaly02/less-css#readme"
+}
